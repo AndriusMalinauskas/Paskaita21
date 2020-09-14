@@ -12,6 +12,8 @@ namespace Paskaita21
         {
 
             Labas();
+            Labas();
+            Labas();
         }
 
         static void Labas()
