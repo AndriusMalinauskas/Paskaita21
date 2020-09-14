@@ -10,8 +10,8 @@ namespace Paskaita21
     {
         static void Main(string[] args)
         {
-           
 
+            Labas();
         }
 
         static void Labas()
