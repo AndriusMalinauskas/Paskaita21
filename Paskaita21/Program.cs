@@ -10,6 +10,7 @@ namespace Paskaita21
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Jau sis tas");
         }
     }
 }
