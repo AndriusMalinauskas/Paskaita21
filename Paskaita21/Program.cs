@@ -12,13 +12,12 @@ namespace Paskaita21
         {
 
             Labas();
-            Labas();
-            Labas();
+          
         }
 
         static void Labas()
         {
-            Console.WriteLine("Kas tu !?");
+            Console.WriteLine("Kas  !?");
         }
     }
 }
