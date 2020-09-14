@@ -16,7 +16,7 @@ namespace Paskaita21
 
         static void Labas()
         {
-            Console.WriteLine("Kas tu?");
+            Console.WriteLine("Kas tu !?");
         }
     }
 }
